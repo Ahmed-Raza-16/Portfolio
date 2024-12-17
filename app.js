@@ -53,11 +53,11 @@ $(function () {
 
 
     $(".phone1").hover(function () {
-        $(".phone1").html("03252436687");
+        $(".phone1").html("032----");
     });
 
     $(".phone2").hover(function () {
-        $(".phone2").html("03322096686");
+        $(".phone2").html("033----");
     });
     $(".switch").click(function () {
         $("body").toggleClass("body-light");

@@ -75,13 +75,13 @@ body {
 }
 
 .ahmed-img-intro {
-    border: 2px solid rgba(255, 255, 255, 0.226);
+    border: 2px solid rgba(255, 255, 255, 0.24);
     width: fit-content;
     margin-left: 5px;
     margin-top: 5px;
     border-radius: 5px;
     padding: 0px 0px;
-    box-shadow: 0px 0px 15px black;
+    box-shadow: 0px 0px 16px black;
     display: inline-block;
     transition-duration: 0.5s;
 }
@@ -288,7 +288,7 @@ body {
     margin-left: 20px;
     margin-bottom: 30px;
     font-weight: 500;
-    color: #00a2ff;
+    color: #1babff;
     font-weight: bold;
 }
 
@@ -297,7 +297,7 @@ body {
 
 }
 .nav-bar .active {
-    color: rgb(255, 255, 255);
+    color: rgb(235, 235, 235);
 }
 
 
